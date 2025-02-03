@@ -1,4 +1,4 @@
-package IfElse;
+package IfElse.Task_1Feb;
 
 import java.util.Scanner;
 
